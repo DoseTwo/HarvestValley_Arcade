@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/BackgroundNoises.mp3</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/beetroot_seeds.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/beetroot.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/BeetrootReady.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/beetrootSprout.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/beetrootYoung.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/carrot.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/CarrotReady.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/CarrotSprout.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/CarrotYoung.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/Cream_Beige_BIG.spritefont</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/Cream_Beige.spritefont</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/greenhairgirl.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/greenseed.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/iron_hoe.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/Items/beetroot_seeds.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/Items/beetroot.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/Items/carrot.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/Items/iron_hoe.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/Items/water_bucket.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/Items/wheat_seeds.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/map.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/moneyBin.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/moneyico.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/niko.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/oldplant.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/redseed.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/TileSet.jpg</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/water_bucket.png</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/WatheringEffect.wav</File>
+    <File>C:/Users/Amelia Cormier/Documents/School/PROG1255 (C#)/projet/HarvestValley/HarvestValley/Content/wheat_seeds.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
